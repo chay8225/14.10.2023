@@ -1,1 +1,28 @@
-fgfgfgfgfgfg
+def part1(number):
+    if number % 2 == 0:
+  return Tree 
+return False 
+
+print(part1(5))
+print(part1(8))
+
+
+def part2(a):
+  temp = "else"
+  summa_vowels = 0 
+  for i in temp: 
+    summa_vowels += s.lower.cuont(i)
+return summa_vowels 
+a = "In Odessa the sky will be clear whil the end of the day. No precipitation"
+print(part2(a))
+
+def part3(n): 
+dactorial = 1 
+while n > 0: 
+  factorial *= n 
+  n -= 1 
+return factorial 
+print(part3(5))
+
+
+  
